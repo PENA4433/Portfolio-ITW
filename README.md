@@ -1,2 +1,3 @@
-O objetivo do trabalho foi fazer uma página sobre uma escola (os temas foram selecionados) para a disciplina Interfaces e Tecnologias Web(ITW).
-Meste página web usei HTML,CSS e JavaScript, sendo que o Javacript, foi usado para fazer uma calculadora de média, em que se a média fosse superior a 9,5 iria mandar um link para os alunos verem os cursos disponíveis, se fosse inferior a 9,5 mandava uma mensagem a dizer não pode concorrer ao ensino superior. 
+O objetivo deste trabalho foi criar uma página web sobre uma escola, como parte da disciplina de Interfaces e Tecnologias Web (ITW). Para isso, utilizei HTML, CSS e JavaScript.
+
+A página inclui uma calculadora de média feita em JavaScript. A calculadora funciona da seguinte maneira: se a média do aluno for superior a 9,5, é exibido um link para que os alunos possam ver os cursos disponíveis. Caso a média seja inferior a 9,5, uma mensagem é exibida informando que o aluno não pode concorrer ao ensino superior. 
