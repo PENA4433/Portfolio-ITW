@@ -1,0 +1,223 @@
+.intro-block {
+    padding: 5% 10% 0;
+    color: #fff;
+    background-color:#FF4500	;
+}
+.text-muted {
+    color: #fff;
+    font-weight: 105;
+}
+
+.intro-text {
+    background-color:#808080	;
+    color: #DCDCDC;
+    padding: 20px 0;
+}
+
+.tpad {
+    padding-top: 20px;
+}
+
+.img-responsive.tpad {
+    width: 100%;
+    height: auto;
+}
+.off{
+    color: #DCDCDC;
+    margin-bottom: 1px; 
+    margin-top:1px; 
+}
+.img-responsive.off {
+    max-width: 100%;
+    height: 650px;
+    margin-bottom: 20px; 
+    margin-top: -4px;
+}
+
+.navbar-inverse {
+    background-color:#191970,
+}
+
+.ftr {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 133px;
+    background-color:#87CEFA;
+    padding: 9px;
+    text-align: left;
+    font-size: 12px;
+}
+
+.ftr address {
+    color:#1C1C1C	;
+    margin-left: -150px;
+}
+
+.ftr a {
+    color: #1C1C1C	;
+}
+
+.ftr p {
+    color: #1C1C1C	;
+}
+
+.ft_space {
+    padding: 0 10px;
+}
+
+.img-responsive {
+    max-width: 100px;
+    height: auto;
+}
+
+.footer-text {
+    text-align: left;
+}
+
+h1.off {
+    margin-top: -80px;
+}
+
+h1.intro {
+    margin-top: auto;
+}
+
+h4.address {
+    margin-left: 90px;
+}
+
+.map {
+    height: 390px;
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    .intro-block {
+        padding: 10% 5% 0;
+    }
+    
+    .ftr address {
+        margin-left: 0;
+    }
+    
+    .ftr p {
+        margin-top: 5px;
+    }
+}
+
+@media (max-width: 991px) {
+    h1.off {
+        margin-top: -40px;
+    }
+}
+
+.container-padded {
+    background-color: #9cc0f9;
+    color: #FFF5EE;
+}
+.img-1ciclo{
+        max-width: 100%;
+    height: 100px;
+
+
+}
+.img-2e3ciclo{
+         max-width: 100%;
+    height: 100px;
+  
+}
+.img-secundario{
+     max-width: 100%;
+    height: 100px;
+    
+}
+.cursos{
+    background-color:	#DCDCDC	;
+}
+.img-EP{
+     max-width: 100%;
+    height: 100px;
+    
+}
+.img-CC{
+       max-width:30%;
+    height: auto;
+   
+}
+.img-CJM {
+      max-width:45%;
+    height: auto;
+    margin-left: -60px;
+  
+}
+.img-CD{  
+    max-width:45%;
+    height: auto;
+    margin-left: -5px;
+ 
+}
+.clubes{
+    background-color:	#DCDCDC;
+}
+.autores {
+    background-color: #DCDCDC;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: left;
+    
+}
+.autores p{
+    width: 100%;
+margin-left: -180px;
+}
+.autores h3{
+    width: 100%;
+    text-align: center;
+}
+.autores h4{
+       width: 100%;
+    text-align: center;
+}
+.formacoes h3{
+    width: 100%;
+    text-align: center;
+        margin-left: -20px;
+
+}
+.formacoes h4{
+       width: 100%;
+    text-align: left;
+    margin-left: -140px;
+}
+.formacoes h4{
+    width: 100%;
+    text-align: center;
+        margin-left: -20px;
+}
+.Media{
+  background-color: #DCDCDC;
+    min-height: 100vh; 
+    padding: 20px; 
+}	
+.Media h1{
+    text-align: center;
+}
+.Consulta {
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    margin: 20px 0;
+    color:#D2691E;
+}
+.img-estlx, .img-estlx2 {
+    max-width: 30%;  /* Aumenta para 30% da largura do contêiner */
+    width: 600px;    /* Aumenta a largura para 600px */
+    height: auto;    /* Mantém a proporção da imagem */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  /* Centraliza as imagens */
+    margin-bottom: 20px; /* Espaçamento entre as imagens */
+}
