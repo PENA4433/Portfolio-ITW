@@ -1,1 +1,1 @@
-O objetivo deste trabalho foi criar uma página web sobre uma escola (tive de fazer sobre uma página uma escola pois foi o tema que me calhou), na disciplina de Interfaces e Tecnologias Web (ITW). Para isso, utilizei HTML, CSS , JavaScript 
+O objetivo deste trabalho foi criar uma página web sobre uma escola (tive de fazer sobre uma página de uma escola pois foi o tema que me calhou), na disciplina de Interfaces e Tecnologias Web (ITW). Para isso, utilizei HTML, CSS , JavaScript 
